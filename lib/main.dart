@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:food_preview/food_preview_screen.dart';
-import 'package:food_preview/food_preview_screen_2.dart';
 
 void main() {
   runApp(const MyApp2());
@@ -41,14 +40,6 @@ class HomeScreen extends StatelessWidget {
                 ));
               },
               child: const Text('Open Food Screen'),
-            ),
-            ElevatedButton(
-              onPressed: () {
-                Navigator.of(context).push(RawDialogRoute(
-                  pageBuilder: (context, _, __) => const FoodPreviewScreen2(),
-                ));
-              },
-              child: const Text('Open Completed Food Screen'),
             ),
           ],
         ),

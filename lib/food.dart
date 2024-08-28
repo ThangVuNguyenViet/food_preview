@@ -23,6 +23,18 @@ class Food {
       Ingredient(name: 'Eggs', image: 'assets/egg.jpg'),
       Ingredient(name: 'Bean Sprouts', image: 'assets/bean-sprouts.jpg'),
       Ingredient(name: 'Sauce', image: 'assets/sauce.png'),
+      Ingredient(name: 'Beef', image: 'assets/beef.jpg'),
+      Ingredient(name: 'Rice noodles', image: 'assets/noodle.jpeg'),
+      Ingredient(name: 'Herbs', image: 'assets/herb.jpg'),
+      Ingredient(name: 'Eggs', image: 'assets/egg.jpg'),
+      Ingredient(name: 'Bean Sprouts', image: 'assets/bean-sprouts.jpg'),
+      Ingredient(name: 'Sauce', image: 'assets/sauce.png'),
+      Ingredient(name: 'Beef', image: 'assets/beef.jpg'),
+      Ingredient(name: 'Rice noodles', image: 'assets/noodle.jpeg'),
+      Ingredient(name: 'Herbs', image: 'assets/herb.jpg'),
+      Ingredient(name: 'Eggs', image: 'assets/egg.jpg'),
+      Ingredient(name: 'Bean Sprouts', image: 'assets/bean-sprouts.jpg'),
+      Ingredient(name: 'Sauce', image: 'assets/sauce.png'),
     ],
   );
 }
